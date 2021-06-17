@@ -3,7 +3,7 @@ Custom analysis code and data for Quinn et al. Decision-related feedback lacks s
 
 # Contents
 ## Source Data/
-source data to reproduce figures
+source data to reproduce figures and example data of one session to exemplify the population analysis.
 
 ## Code/ 
 code for population analysis
