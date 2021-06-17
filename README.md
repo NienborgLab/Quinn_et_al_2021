@@ -2,7 +2,7 @@
 Custom analysis code and data for Quinn et al. Decision-related feedback lacks spatial selectivity, 2021
 
 # Contents
-## Source Data/
+## Data/
 source data to reproduce figures and example data to exemplify the population analysis.
 
 ## Code/ 
